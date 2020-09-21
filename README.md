@@ -1,13 +1,7 @@
-## Aplicacion del clima
+## Aplicacion con express
 
 Recordar instalar los paquetes de node
 
 ```
 npm install
-```
-
-### Example:
-
-```
-node app -d "lima,peru"
 ```
